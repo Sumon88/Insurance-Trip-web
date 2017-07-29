@@ -1,0 +1,157 @@
+
+.header-section{
+    height: 50vh;
+    background: #2a2a2a;
+    position: relative;
+    color: #fff;
+}
+
+.header-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.navbar-nav>li>a {
+padding-top: 15px;
+padding-bottom: 15px;
+color: #fff;
+
+}
+
+.navbar{
+  background: #262626;  
+}
+
+.btn-custom{
+    background: #ff6760;
+    margin-right: 5px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 800px;
+    padding: 5px 20px;
+}
+
+.mid-section{
+    text-align: center;
+    padding: 70px 0px;
+    background: rgba(212, 204, 204, 0.18);
+}
+
+.feature-section{
+    padding: 50px;
+}
+
+.feature-section ul{
+    margin-bottom: 30px;
+}
+
+.contact-section{
+    background: #313131;
+    color: #fff;
+}
+
+.img-border{
+    margin-left: -20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    margin-left: 80px;
+    color: white;
+
+    }
+ /*.social ul li a{
+    background: blue;
+    color: #fff;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    line-height: 30px;
+}*/
+
+.footer-section{
+background: #2c2c2c;
+color: #fff;
+height: 70px;
+}
+.footer-section{
+    padding-top: 20px;
+}
+
+
+
+}
+
+.contact-section h3{
+padding-top: 30px;
+}
+
+.contact-section{
+    position: relative;
+    height: 200px;
+    padding: 10px ;
+
+    height: auto;
+}
+
+/*ul{
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+*/
+
+.social ul li a{
+    width: 30px;
+    height: 30px;
+    background: red;
+    text-align: center;
+    line-height: -40px;
+    font-size: 15px;
+    margin: 10px 10px;
+    display: block;
+    border-radius: 50%;
+    overflow: hidden;
+    
+}
+
+ ul li a .fa-facebook{
+    color: #fff;
+    padding-top: 20%;
+    background: red;
+}
+
+ul li a .fa-twitter{
+    color: #fff;
+    padding-top: 20%;
+    background: red;
+}
+
+ul li a .fa-linkedin{
+    color: #fff;
+    padding-top: 20%;
+    background: red;
+}
+
+ul li a .fa-instagram{
+    color: #fff;
+    padding-top: 20%;
+    background: red;
+}
+
+ul li a .fa-youtube{
+    color: #fff;
+    padding-top: 20%;
+    background: red;
+}
